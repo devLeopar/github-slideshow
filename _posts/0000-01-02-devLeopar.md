@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hey i need to go through this course using windows CLI or git CLI maybe :)
+I still think that i also need to go via CLI but maybe next time :)
 Use the left arrow to go back!
